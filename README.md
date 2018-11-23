@@ -47,7 +47,7 @@ Project Structure
 ├── 5_reports               <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
 │   ├── bibliogrpahy        <- Bibliography file, e.g., bibtex, Mendeley, Papers.
 │   └── figures              <- Figures for the manuscript or reports
-├── 6_presentations         <- For a presentation source, e.g., Jupyter notebook, Keynote, etc., or any project presentations
+└── 6_presentations         <- For a presentation source, e.g., Jupyter notebook, Keynote, etc., or any project presentations
 ```
 
 
