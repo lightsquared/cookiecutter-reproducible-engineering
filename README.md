@@ -22,7 +22,7 @@ Project Structure
 ├── LICENSE
 ├── README.md
 ├── 0_research              <- Documentation, e.g., doxygen or scientific papers (not tracked by git)
-├── 1_configuration          <- Configuration files for testing
+├── 1_configuration         <- Configuration files for testing
     ├── instrumentation     <- Configuration files for instrumentation
     ├── doxygen             <- Configuration file for doxgen
     ├── models              <- Configuration files for software models
@@ -46,7 +46,7 @@ Project Structure
 │   └── test_2...
 ├── 5_reports               <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
 │   ├── bibliogrpahy        <- Bibliography file, e.g., bibtex, Mendeley, Papers.
-│   └── figures              <- Figures for the manuscript or reports
+│   └── figures             <- Figures for the manuscript or reports
 └── 6_presentations         <- For a presentation source, e.g., Jupyter notebook, Keynote, etc., or any project presentations
 ```
 
