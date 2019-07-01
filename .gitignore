@@ -1,3 +1,6 @@
 
 .DS_Store
 .DS_Store
+.DS_Store
+{{cookiecutter.project_slug}}/.DS_Store
+{{cookiecutter.project_slug}}/1_configuration/.DS_Store
