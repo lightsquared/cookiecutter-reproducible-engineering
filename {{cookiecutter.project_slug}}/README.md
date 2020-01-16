@@ -10,20 +10,23 @@ Project Organization
     ├── AUTHORS.md
     ├── LICENSE
     ├── README.md
-    ├── bin
-    ├── config
-    ├── data
-    │   ├── external
-    │   ├── interim
-    │   ├── processed
-    │   └── raw
-    ├── docs
-    ├── notebooks
-    ├── reports
+    ├── 0_research
+    ├── 1_planning
+    │   ├── process_hazard_analysis
+    │   └── test_plan
+    ├── 2_data
+    │   └── test_1
+    │        ├── external
+    │        ├── interim
+    │        ├── final
+    │        └── raw
+    ├── 3_media
+    ├── 4_analysis
+    │   └── test_1
+    │        ├── external
+    │        ├── models
+    │        ├── tools
+    │        └── visualization
+    ├── 5_reports
     │   └── figures
-    └── src
-        ├── data
-        ├── external
-        ├── models
-        ├── tools
-        └── visualization
+    ├── 6_presentations
